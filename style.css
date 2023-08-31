@@ -1,0 +1,81 @@
+body{
+    background-image: url(..//Hackaton/foto/istockphoto-1362746343-612x612.jpg);
+    background-size: cover;
+}
+
+.main{
+    height: 100vh;
+    
+}
+
+.header{
+    height: 5vh;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.vraag{
+    height: 70vh;
+    color: white;
+    text-align: center;
+}
+
+.footer{
+    height: 15vh;
+    align-content: center;
+    
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+label{
+    color:purple
+}
+button{
+    background-color: violet;
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    font-weight: 200;
+    font-size: 25px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:gray;
+  }
+
+  .createform{
+    text-align: center;
+    position: relative;
+    top: 35vh;
+  }
+
+ #create-title{
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 10vh;
+ }

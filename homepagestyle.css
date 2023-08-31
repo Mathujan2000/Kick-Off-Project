@@ -1,0 +1,43 @@
+body{
+    background-image: url(..//Hackaton/foto/istockphoto-1339908748-612x612.jpg);
+    background-size: cover; 
+    
+}
+header{
+    color: white;
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    overflow: hidden;
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    font-weight: 200;
+    font-size: 25px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:gray;
+  }
+  article{
+    text-align: center;
+    color: white;
+  }
+  p{
+    font-size: 20px;
+    
+  }
+  footer{
+    text-align: center;
+}
